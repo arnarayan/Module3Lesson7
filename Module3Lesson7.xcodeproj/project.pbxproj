@@ -13,6 +13,8 @@
 		00092A99282C862C0083939C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00092A98282C862C0083939C /* Preview Assets.xcassets */; };
 		00092AA2282C9EA50083939C /* MyUITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AA1282C9EA50083939C /* MyUITextView.swift */; };
 		00092AA4282CA4F60083939C /* MyMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AA3282CA4F60083939C /* MyMapView.swift */; };
+		00092AC4282E102C0083939C /* NavigationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AC3282E102C0083939C /* NavigationExample.swift */; };
+		00092AC6282E116C0083939C /* MyDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00092AC5282E116C0083939C /* MyDestination.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		00092A98282C862C0083939C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		00092AA1282C9EA50083939C /* MyUITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUITextView.swift; sourceTree = "<group>"; };
 		00092AA3282CA4F60083939C /* MyMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMapView.swift; sourceTree = "<group>"; };
+		00092AC3282E102C0083939C /* NavigationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExample.swift; sourceTree = "<group>"; };
+		00092AC5282E116C0083939C /* MyDestination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDestination.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				00092A97282C862C0083939C /* Preview Content */,
 				00092AA1282C9EA50083939C /* MyUITextView.swift */,
 				00092AA3282CA4F60083939C /* MyMapView.swift */,
+				00092AC3282E102C0083939C /* NavigationExample.swift */,
+				00092AC5282E116C0083939C /* MyDestination.swift */,
 			);
 			path = Module3Lesson7;
 			sourceTree = "<group>";
@@ -145,7 +151,9 @@
 			files = (
 				00092AA2282C9EA50083939C /* MyUITextView.swift in Sources */,
 				00092AA4282CA4F60083939C /* MyMapView.swift in Sources */,
+				00092AC6282E116C0083939C /* MyDestination.swift in Sources */,
 				00092A94282C86280083939C /* ContentView.swift in Sources */,
+				00092AC4282E102C0083939C /* NavigationExample.swift in Sources */,
 				00092A92282C86280083939C /* Module3Lesson7App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
